@@ -14,6 +14,7 @@ GNU GCC on Windows 10
 # Naming Conventions:
 
 Snake Case: functions, verialbe and data types
+
 Screaming Case: Preprocessor defines
 
 # Documentation:
