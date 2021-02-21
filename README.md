@@ -16,7 +16,7 @@ GNU GCC on Windows 10
 Snake Case: functions, verialbe and data types
 Screaming Case: Preprocessor defines
 
-#Documentation:
+# Documentation:
 
 Doxygen
 
